@@ -113,6 +113,29 @@ CodeAlpha_CreditWise_AI/
 └── README.md
 ```
 
+## Application Screenshots
+
+The following screenshots demonstrate the working CreditWise AI application and its model testing results.
+
+### 1. Application Dashboard
+
+![CreditWise AI Dashboard](screenshots/01_dashboard.png)
+
+### 2. Credit Risk Input Form
+
+![CreditWise AI Input Form](screenshots/02_input_form.png)
+
+### 3. Credit Risk Prediction Result
+
+![CreditWise AI Prediction Result](screenshots/03_prediction_result.png)
+
+### 4. Automated Model Testing
+
+![CreditWise AI Model Tests](screenshots/04_model_tests.png)
+
+---
+
+
 ## How to Run Locally
 
 **1. Clone the repository**
